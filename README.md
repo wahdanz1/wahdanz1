@@ -19,7 +19,7 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 | Databaser    | Designed, created, and managed relational databases using **SQL**. Learned data modeling, normalization, and CRUD operations. | SQL, Data Modeling
 | Agil Projektledning      | Studied **Scrum** and **Kanban**; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban
 | AI 1 - Python    | Developed **Python** skills, working with file handling, **NumPy**, **Pandas**, and **Matplotlib**. Focused on data cleaning, preparation, and visualization, data analysis, data storytelling, dashboard and KPIs. | Python, NumPy, Pandas, Matplotlib, Plotly, Streamlit
-| AI 2 - Data Engineering (_ongoing_)      | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with **DLT**, **DBT Core** and **Dagster**. Learning how to use LLM's.  | Python, SQL, DLT, DuckDB, DBT, Dagster, LLM
+| AI 2 - Data Engineering      | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with **DLT**, **DBT Core** and **Dagster**. Learning how to use LLM's.  | Python, SQL, DLT, DuckDB, DBT, Dagster, LLM
 
 ### Upcoming courses 💻  
 - **OOP avancerad 1** (HT25)
@@ -65,13 +65,15 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 ---
 
 ## Check out my github portfolio :briefcase:
-Below is a collection of repositories I have spent some extra time (_and love_) on. 
+Below is a small collection of repositories I have spent some extra time (_and love_) on. 
 
 | Repository                            | Description                                                              |
 | ------------------------------------- | ------------------------------------------------------------------------ |
-| [sddd-template][sddd-template-tag]   | An experimental side-project with the goal to help you set up a data pipeline in no time.            |
+| [opa24-project][opa24-project-tag]   | The final group project of my Data Engineering course, which was a simple yet informative dashboard revolving the jobtech API. |
+| [hackaton-2025-project][hackaton-2025-tag]   | A 4 week Hackaton (_ongoing_) during June 2025 where we are building a dashboard based on the WoW API. |
 
-[sddd-template-tag]: [#](https://github.com/wahdanz1/sddd-template)
+[opa24-project-tag]: https://github.com/wahdanz1/OPA24-project-hr-analytics-dashboard
+[hackaton-2025-tag]: https://github.com/Nemanja1208/InFiNetCode-Hackaton2025-Team1
 
 
 ---
