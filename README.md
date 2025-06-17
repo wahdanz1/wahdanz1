@@ -69,7 +69,7 @@ Below is a small collection of repositories I have spent some extra time (_and l
 
 | Repository                            | Description                                                              |
 | ------------------------------------- | ------------------------------------------------------------------------ |
-| [opa24-project][opa24-project-tag]   | The final group project of my Data Engineering course, which was a simple yet informative dashboard revolving the jobtech API. |
+| [opa24-project][opa24-project-tag]   | The final group project of my Data Engineering course, which was a simple yet informative dashboard based on data from the jobtech API. |
 | [hackaton-2025-project][hackaton-2025-tag]   | A 4 week Hackaton (_ongoing_) during June 2025 where we are building a dashboard based on the WoW API. |
 
 [opa24-project-tag]: https://github.com/wahdanz1/OPA24-project-hr-analytics-dashboard
