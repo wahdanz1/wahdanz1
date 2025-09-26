@@ -41,6 +41,8 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Machine Learning & AI
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Databases
@@ -98,3 +100,4 @@ I'm always curious and eager to grow. Whether it's learning a new framework or s
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wahdanz#5803/)
 
 [linkedin]: https://www.linkedin.com/in/dwahlgren/
+
