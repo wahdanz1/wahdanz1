@@ -18,10 +18,10 @@ I'm always open to collaborations! If you think my skills could benefit your pro
 | Agil Projektledning      | Studied **Scrum** and **Kanban**; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban
 | AI 1 - Python    | Developed **Python** skills, working with file handling, **NumPy**, **Pandas**, and **Matplotlib**. Focused on data cleaning, preparation, and visualization, data analysis, data storytelling, dashboard and KPIs. | Python, NumPy, Pandas, Matplotlib, Plotly, Streamlit
 | AI 2 - Data Engineering      | Studied ETL/ELT processes, data pipelines, and transformations. Learned regression, classification, clustering, and worked with **DLT**, **DBT Core** and **Dagster**. Learned how to use LLM's.  | Python, SQL, DLT, DuckDB, DBT, Dagster, LLM
-| OOP avancerad 1    | Currently studying advanced **object-oriented design principles** (SOLID), developing **server services** for database integration, **web services** and interactive interfaces. Learning to integrate different types of databases, develop **RAG applications**, and create **agent-based applications** with LLM decision-making. | C#, FastAPI, Pydantic, RAG, Agent Development
+| OOP avancerad 1    | Studied advanced **object-oriented design principles** (SOLID), developed **server services** for database integration, **web services** and interactive interfaces. Learned to integrate different types of databases, develop **RAG applications**, and create **agent-based applications** with LLM decision-making. | FastAPI, Pydantic, RAG, Agent Development
+| LIA 1 (Lärande i Arbete)   | Currently doing my first internship period. Working with AI-agents and developing a Digital Hospital environment. | Industry Experience, Neo4j, MCP, JavaScript
 
 ### Upcoming courses 💻  
-- **LIA 1** (2025-10-13 -> 2025-12-12)
 - **OOP avancerad 2** (VT25)
 - **LIA 2** (2026-02-16 -> 2026-05-22)
 <br><br>
@@ -91,5 +91,6 @@ I'm always curious and eager to grow. Whether it's learning a new framework or s
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wahdanz#5803/)
 
 [linkedin]: https://www.linkedin.com/in/dwahlgren/
+
 
 
