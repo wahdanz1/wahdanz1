@@ -9,7 +9,7 @@ I build things that solve real problems. Currently studying **Object-Oriented Pr
 🚀 Always building, always learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwahlgren/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwahlgren93@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wahdanz#5803)
 
 ---
 
@@ -140,11 +140,12 @@ Upcoming:
 
 I'm always curious and eager to collaborate. Whether it's learning a new framework, solving a tricky bug, or building something meaningful together - I'd love to hear from you!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dwahlgren/)
-- 💬 [Discord](https://discord.com/users/wahdanz#5803)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwahlgren/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wahdanz#5803)
 
 ---
 
 <div align="center">
   <i>⭐ If you like my work, consider giving my repos a star!</i>
 </div>
+
