@@ -15,19 +15,19 @@ I build things that solve real problems. Currently studying **Object-Oriented Pr
 
 ## 🔥 Featured Projects
 
-### 🎮 WoW Auction House Analytics (Hackathon 2025)
-**Month-long hackathon project** analyzing World of Warcraft auction house data. Built complete data pipeline with OAuth authentication and API integration - all BEFORE covering these topics in school.  
+### [🎮 WoW Auction House Assistant (Hackathon 2025)](https://github.com/wahdanz1/wow-assistant)
+**Month-long hackathon project** analyzing World of Warcraft auction house data. Built complete data pipeline with OAuth authentication and API integration. 
 **Tech:** Python • DLT • DBT • OAuth • API Integration • Data Pipelines  
-*Repository coming soon*
 
 ### [🚕 TaxiPred - ML Taxi Fare Prediction](https://github.com/wahdanz1/taxi-prediction-fullstack-daniel-opa24)
 Full-stack ML application with GradientBoosting model, FastAPI backend, and interactive Streamlit frontend.  
 **Tech:** Python • FastAPI • Streamlit • Scikit-learn • PostgreSQL
 
-### 💰 Household Harmony - Smart Budgeting App
+### 💰 [Household Harmony - Smart Budgeting App](https://github.com/wahdanz1/household-harmony)
 Budget application for Swedish households with intelligent defaults and real-time tracking.  
 **Tech:** React • TypeScript • Python • FastAPI • PostgreSQL  
-*Repository coming soon*
+*[Live App →](https://household-harmony.vercel.app/)*
+
 
 ### [🏥 Digital Hospital Simulation (LIA Project)](https://hospital-simulation.lifeatlas.online/)
 AI-powered hospital simulation system with multi-agent coordination and real-time visualization.  
@@ -148,4 +148,5 @@ I'm always curious and eager to collaborate. Whether it's learning a new framewo
 <div align="center">
   <i>⭐ If you like my work, consider giving my repos a star!</i>
 </div>
+
 
