@@ -15,6 +15,16 @@ I build things that solve real problems. Currently studying **Object-Oriented Pr
 
 ## 🔥 Featured Projects
 
+### 💰 [Household Harmony - Smart Budgeting App](https://github.com/wahdanz1/household-harmony)
+Budget application for Swedish households with intelligent defaults and real-time tracking.  
+**Tech:** React • TypeScript • Python • FastAPI • PostgreSQL  
+*[Live App →](https://household-harmony.vercel.app/)*
+
+### [🏥 Digital Hospital Simulation (LIA Project)](https://hospital-simulation.lifeatlas.online/)
+AI-powered hospital simulation system with multi-agent coordination and real-time visualization.  
+**Tech:** Python • Pydantic AI • FastAPI • Phaser.js • Neo4j  
+(currently down) *[View Live Demo →](https://hospital-simulation.lifeatlas.online/)*
+
 ### [🎮 WoW Auction House Assistant (Hackathon 2025)](https://github.com/wahdanz1/wow-assistant)
 **Month-long hackathon project** analyzing World of Warcraft auction house data. Built complete data pipeline with OAuth authentication and API integration. 
 **Tech:** Python • DLT • DBT • OAuth • API Integration • Data Pipelines  
@@ -22,17 +32,6 @@ I build things that solve real problems. Currently studying **Object-Oriented Pr
 ### [🚕 TaxiPred - ML Taxi Fare Prediction](https://github.com/wahdanz1/taxi-prediction-fullstack-daniel-opa24)
 Full-stack ML application with GradientBoosting model, FastAPI backend, and interactive Streamlit frontend.  
 **Tech:** Python • FastAPI • Streamlit • Scikit-learn • PostgreSQL
-
-### 💰 [Household Harmony - Smart Budgeting App](https://github.com/wahdanz1/household-harmony)
-Budget application for Swedish households with intelligent defaults and real-time tracking.  
-**Tech:** React • TypeScript • Python • FastAPI • PostgreSQL  
-*[Live App →](https://household-harmony.vercel.app/)*
-
-
-### [🏥 Digital Hospital Simulation (LIA Project)](https://hospital-simulation.lifeatlas.online/)
-AI-powered hospital simulation system with multi-agent coordination and real-time visualization.  
-**Tech:** Python • Pydantic AI • FastAPI • Phaser.js • Neo4j  
-*[View Live Demo →](https://hospital-simulation.lifeatlas.online/)*
 
 ### [📊 HR Analytics Dashboard](https://github.com/wahdanz1/OPA24-project-hr-analytics-dashboard)
 Data pipeline and dashboard built with modern data engineering tools, processing JobTech API data.  
@@ -103,8 +102,10 @@ Key courses completed:
 - **Advanced OOP** - FastAPI, Pydantic, RAG applications, AI agents
 - **LIA 1** (Oct-Dec 2024) - Industry internship at LifeAtlas
 
+Ongoing:
+- **Advanced OOP 2** (Spring 2026) - PydanticAI, Docker, MCP
+
 Upcoming:
-- **Advanced OOP 2** (Spring 2025)
 - **LIA 2** (Feb-May 2026)
 - **Examensarbete** (Thesis Project, Spring 2026)
 
@@ -148,5 +149,6 @@ I'm always curious and eager to collaborate. Whether it's learning a new framewo
 <div align="center">
   <i>⭐ If you like my work, consider giving my repos a star!</i>
 </div>
+
 
 
