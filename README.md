@@ -101,12 +101,12 @@ Key courses completed:
 - **Data Engineering** - ETL/ELT, DLT, DBT, Dagster, data pipelines
 - **Advanced OOP** - FastAPI, Pydantic, RAG applications, AI agents
 - **LIA 1** (Oct-Dec 2024) - Industry internship at LifeAtlas
+- **Advanced OOP 2** - PydanticAI, Docker, MCP
 
 Ongoing:
-- **Advanced OOP 2** (Spring 2026) - PydanticAI, Docker, MCP
+- **LIA 2** (Feb-May 2026)
 
 Upcoming:
-- **LIA 2** (Feb-May 2026)
 - **Examensarbete** (Thesis Project, Spring 2026)
 
 ---
@@ -149,6 +149,7 @@ I'm always curious and eager to collaborate. Whether it's learning a new framewo
 <div align="center">
   <i>⭐ If you like my work, consider giving my repos a star!</i>
 </div>
+
 
 
 
