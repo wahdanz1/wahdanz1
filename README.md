@@ -1,14 +1,17 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Daniel Wahlgren" src="./assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2">
+  <img alt="Daniel Wahlgren" src="./assets/header-light.svg?v=2">
 </picture>
 
 <br>
 
-Fullstack developer with twenty years behind a graphics tablet - I build software the way I make images: composition first, detail layered in until it earns its place.
+I build software the way I make images - composition first, detail until it earns its place. Fullstack: web apps, ML/AI, and data pipelines.
+Background in object-oriented programming with AI competence (NBI/Handelsakademin, Gothenburg) and internship experience at [Hive & Five](https://hiveandfive.com/).
 
-Background in object-oriented programming with AI competence (NBI/Handelsakademin, Gothenburg) and internship experience at [Hive & Five](https://hiveandfive.com/). Thesis: forecasting blood glucose from CGM data ([live demo](https://glucopred-demo.vercel.app) · [code](https://github.com/wahdanz1/glucopred-demo)). **Open to full-time work.**
+**Thesis:** forecasting blood glucose from CGM data ([live demo](https://glucopred-demo.vercel.app) · [code](https://github.com/wahdanz1/glucopred-demo)).
+
+## **Open to full-time work.**
 
 ```
 front of house    ·  React, TypeScript, considered UI, motion that means something
